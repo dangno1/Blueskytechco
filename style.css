@@ -392,6 +392,7 @@
   font-weight: 500;
   font-size: 14px;
   line-height: 17.5px;
+  border-bottom: 1px solid #e5e8ec;
 }
 
 .menu ul li a p {
